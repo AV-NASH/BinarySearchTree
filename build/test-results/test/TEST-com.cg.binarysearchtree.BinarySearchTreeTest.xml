@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.cg.binarysearchtree.BinarySearchTreeTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-10-19T18:31:26" hostname="AVINASH" time="0.009">
+<testsuite name="com.cg.binarysearchtree.BinarySearchTreeTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-10-19T19:23:18" hostname="AVINASH" time="0.003">
   <properties/>
-  <testcase name="whenDataEntered_inBinaryTree_returnsCorrectSize" classname="com.cg.binarysearchtree.BinarySearchTreeTest" time="0.009"/>
+  <testcase name="whenDataEntered_inBinaryTree_returnsCorrectSize" classname="com.cg.binarysearchtree.BinarySearchTreeTest" time="0.003"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>

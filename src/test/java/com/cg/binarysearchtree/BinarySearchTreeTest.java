@@ -13,6 +13,8 @@ public class BinarySearchTreeTest {
         binarySearchTree.add(56);
         binarySearchTree.add(30);
         binarySearchTree.add(70);
-        Assert.assertEquals(3,binarySearchTree.size());
+        binarySearchTree.add(60);
+        binarySearchTree.add(25);
+        Assert.assertEquals(5,binarySearchTree.size());
     }
 }
